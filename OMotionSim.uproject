@@ -30,5 +30,11 @@
 			"Name": "RawInput",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Mac",
+		"Windows",
+		"LinuxArm64",
+		"Linux"
 	]
 }
